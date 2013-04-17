@@ -1,4 +1,4 @@
-;;;;; Copyright (c) 2010-2012, Martin Loetzsch
+;;;;; Copyright (c) 2010-2013, Martin Loetzsch
 ;;;;; All rights reserved.
 
 ;;;;; Redistribution and use in source and binary forms, with or
